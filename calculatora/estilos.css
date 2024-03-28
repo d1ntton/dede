@@ -1,0 +1,241 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  body{
+    width: 200px;
+    margin: 20px auto;
+    border: 1px solid #ccc;
+    padding: 20px;
+    width: 362px;
+height: 374.07px;
+top: 82px;
+left: 139px;
+gap: 0px;
+opacity: 0px;
+background: #F2F2F2;
+display: flex;
+
+}
+
+.zero{
+    width: 75.08px;
+height: 58.99px;
+top: 380.63px;
+left: 160.12px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+border: 1px solid #000000;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+
+}
+.calculator input{
+    width: 90%;
+    margin-bottom: 25px;
+    padding: 10px;
+    width: 323.12px;
+height: 58.99px;
+top: 103.45px;
+left: 159.11px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+border: 1px solid #000000;
+background-color: whit;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+
+}
+.nove{
+    width: 75.08px;
+height: 58.99px;
+top: 178.53px;
+left: 159.11px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+border: 1px solid #000000;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+
+}
+.oito{
+    width: 75.08px;
+height: 58.99px;
+top: 178.53px;
+left: 242.24px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+border: 1px solid #000000;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+
+}
+.sete{
+    width: 75.08px;
+height: 58.99px;
+top: 178.53px;
+left: 325.36px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+border: 1px solid #000000;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+
+}
+.divid{
+    width: 75.08px;
+height: 58.99px;
+top: 178.53px;
+left: 408.49px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+border: 1px solid #000000;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+
+}
+.seis{
+    width: 75.08px;
+height: 58.99px;
+top: 245.57px;
+left: 159.11px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+
+border: 1px solid #000000;
+}
+.cinco{
+    width: 75.08px;
+height: 58.99px;
+top: 245.57px;
+left: 242.24px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+border: 1px solid #000000;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+
+}
+.quat{
+    width: 75.08px;
+height: 58.99px;
+top: 245.57px;
+left: 325.36px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+border: 1px solid #000000;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+
+}
+.mult{
+    width: 75.08px;
+height: 58.99px;
+top: 245.57px;
+left: 408.49px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+border: 1px solid #000000;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+
+}
+.tres{
+    width: 75.08px;
+height: 58.99px;
+top: 313.95px;
+left: 159.11px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+border: 1px solid #000000;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+
+}
+.dois{
+    width: 75.08px;
+height: 58.99px;
+top: 313.95px;
+left: 242.24px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+border: 1px solid #000000;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+
+}
+.um{
+    width: 75.08px;
+height: 58.99px;
+top: 313.95px;
+left: 325.36px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+border: 1px solid #000000;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+
+}
+.sub{
+    width: 75.08px;
+height: 58.99px;
+top: 313.95px;
+left: 408.49px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+
+border: 1px solid #000000;
+}
+.igual{
+    width: 157.74px;
+height: 59.17px;
+top: 380.99px;
+left: 242.7px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+
+border: 1px solid #000000;
+}
+.mais{
+    width: 75.08px;
+height: 58.99px;
+top: 380.99px;
+left: 408.49px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+
+opacity: 0px;
+border: 1px solid #000000;
+}
+.calculator{
+    justify-content: space-around;
+    display: flex;
+    flex-wrap: wrap;
+    width: 362px;
+height: 374.07px;
+top: 82px;
+left: 139px;
+gap: 0px;
+opacity: 0px;
+background-color: #F2F2F2;
+}
+.display{
+    width: 323.12px;
+height: 58.99px;
+top: 103.45px;
+left: 159.11px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+
+}
